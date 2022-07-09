@@ -1,2 +1,5 @@
 # flowos.com
-Official Website Repository 
+Official Website
+
+Join our server:
+https://discord.gg/MpXcTb5JQx
